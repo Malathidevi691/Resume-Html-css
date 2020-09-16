@@ -1,0 +1,32 @@
+.resumes{
+display: flex;
+flex-direction: row;
+margin: 1%;
+padding: 1%;
+}
+.r1{
+
+background-color:#11050C;
+color: white;
+padding: 1%;
+margin:1%;
+}
+.r2{
+background-color: #998D95;
+padding: 1%;
+margin:1%;
+
+}
+.bg{
+background-color: #C0C3C8;
+}
+.f{
+background-color: #998D95;
+color: #390B61;
+}
+.b{
+color: #766089;
+}
+
+
+
